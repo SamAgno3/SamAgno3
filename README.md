@@ -1,4 +1,4 @@
-<h2> Hello There!</h2>
+<h2> Meet Samarth Agnihotri!</h2>
 <h3>I am Samarth, a hacker, developer, and security researcher, building everything that catches my fancy.</h3>
 
 <h4> Socials </h4>
