@@ -41,5 +41,4 @@
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
            </div>
            <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamAgno3&layout=compact"/>
 If you wish to get in touch, email me at samarth@samagno3.com 
